@@ -68,5 +68,4 @@ Where `X` is the total number of valid paths from **A** to **B** while avoiding 
 This project is open-source under the **MIT License**.
 
 ---
-
-Would you like me to help you **create a visualization tool** to demonstrate the paths dynamically using Python (`matplotlib` or `pygame`)? 🚀
+🚀
